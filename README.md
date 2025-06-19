@@ -17,9 +17,9 @@
 
 ## 📸 Screenshots
 
-| Popup UI                      | Definition & Translation                |
+| Popup UI                      | Demo                                    |
 | ----------------------------- | --------------------------------------- |
-| ![popup](assets/popup_ui.png) | ![definition](assets/definition_ui.png) |
+| ![popup](assets/popup_ui.png) | ![demo](assets/File1.gif) |
 
 > *(Screenshots should be added in a folder called assets for GitHub display.)*
 
