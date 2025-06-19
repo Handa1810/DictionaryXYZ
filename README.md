@@ -21,7 +21,6 @@
 | ----------------------------- | --------------------------------------- |
 | ![popup](assets/popup_ui.png) | ![demo](assets/File1.gif) |
 
-> *(Screenshots should be added in a folder called assets for GitHub display.)*
 
 ---
 
