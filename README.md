@@ -23,15 +23,6 @@
 **UI & Extension Walkthrough**
 ![UI Showcase](assets/File2.gif)
 
----
-
-## 📸 Screenshots
-
-| Popup UI                      | Definition & Translation                |
-| ----------------------------- | --------------------------------------- |
-| ![popup](assets/popup_ui.png) | ![definition](assets/definition_ui.png) |
-
-> *(Screenshots should be added in a folder called `assets` for GitHub display.)*
 
 ---
 
