@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "DictionaryXYZ",
+  "version": "1.0",
+  "description": "Look up dictionary definitions instantly",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "logo.jpeg",
+      "32": "logo.jpeg",
+      "48": "logo.jpeg",
+      "128": "logo.jpeg"
+    }
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["http://127.0.0.1:5000/*"],
+  "icons": {
+      "16": "logo.jpeg",
+      "32": "logo.jpeg",
+      "48": "logo.jpeg",
+      "128": "logo.jpeg"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self';"
+  }
+}
